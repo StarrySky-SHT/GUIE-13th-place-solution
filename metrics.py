@@ -7,18 +7,15 @@ def accuracy(outputs: torch.Tensor, labels: torch.Tensor) -> float:
     acc = correct.float().mean().item()
     return acc
 
-def P_per_image(rank):
+def P_per_image(label,topK_Class,n_q):
     '''
-    rank : type:numpy 
+    topK_Class : type:numpy 
            shape: k,
     '''
-    if rank.all()==0:
-        return 0
-    n_q = np.min((np.max(np.where(rank==1))+1,5))
-    sum_rel_q = np.sum(rank)
+    sum_rel_q = np.sum((label==topK_Class).astype(np.uint8))
     return sum_rel_q/n_q
 
-def compute_mP_at_K(labels,predictions,k=5):
+def compute_mP_at_K(q_target_labels,database_target_labels,topK_Class,k=5):
     '''
     labels : type:numpy 
             shape:num_query,1 
@@ -30,12 +27,14 @@ def compute_mP_at_K(labels,predictions,k=5):
     return: type:float
             represent the mAP@k
     '''
-    predictions = predictions[:,:k]
-    ranks = (predictions==labels).astype(np.uint8) #num_querry,k
-    mAP_at_k = []
-    for i in range(ranks.shape[0]):
-        mAP_at_k.append(P_per_image(ranks[i,:]))
-    return np.mean(mAP_at_k)
+    # get database total numbers
+    label_flatten = np.reshape(q_target_labels,(-1))
+    q_nums = np.sum((database_target_labels==label_flatten).astype(np.uint8),0) #
+    q_nums = np.min((q_nums,np.ones_like(q_nums,dtype=np.uint8)*k),axis=0)
+    mP_at_k = []
+    for i in range(q_nums.shape[0]):
+        mP_at_k.append(P_per_image(label_flatten[i],topK_Class[i,:],q_nums[i]))
+    return np.mean(mP_at_k)
 
 def map_per_image(label, predictions):
     """Computes the precision score of one image.

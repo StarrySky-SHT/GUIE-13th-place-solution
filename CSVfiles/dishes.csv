@@ -1,0 +1,671 @@
+,image_path,id
+0,/root/autodl-tmp/GUIE-data/dishes/applesauce/001.jpg,0
+1,/root/autodl-tmp/GUIE-data/dishes/applesauce/002.jpg,0
+2,/root/autodl-tmp/GUIE-data/dishes/applesauce/003.jpg,0
+3,/root/autodl-tmp/GUIE-data/dishes/applesauce/004.jpg,0
+4,/root/autodl-tmp/GUIE-data/dishes/applesauce/005.jpg,0
+5,/root/autodl-tmp/GUIE-data/dishes/applesauce/006.jpg,0
+6,/root/autodl-tmp/GUIE-data/dishes/applesauce/007.jpg,0
+7,/root/autodl-tmp/GUIE-data/dishes/applesauce/008.jpg,0
+8,/root/autodl-tmp/GUIE-data/dishes/applesauce/009.jpg,0
+9,/root/autodl-tmp/GUIE-data/dishes/applesauce/010.jpg,0
+10,/root/autodl-tmp/GUIE-data/dishes/asian noodles/001.jpg,1
+11,/root/autodl-tmp/GUIE-data/dishes/asian noodles/002.jpg,1
+12,/root/autodl-tmp/GUIE-data/dishes/asian noodles/003.jpg,1
+13,/root/autodl-tmp/GUIE-data/dishes/asian noodles/004.jpg,1
+14,/root/autodl-tmp/GUIE-data/dishes/asian noodles/005.jpg,1
+15,/root/autodl-tmp/GUIE-data/dishes/asian noodles/006.jpg,1
+16,/root/autodl-tmp/GUIE-data/dishes/asian noodles/007.jpg,1
+17,/root/autodl-tmp/GUIE-data/dishes/asian noodles/008.jpg,1
+18,/root/autodl-tmp/GUIE-data/dishes/asian noodles/009.jpg,1
+19,/root/autodl-tmp/GUIE-data/dishes/asian noodles/010.jpg,1
+20,/root/autodl-tmp/GUIE-data/dishes/babaganoosh/001.jpg,2
+21,/root/autodl-tmp/GUIE-data/dishes/babaganoosh/002.jpg,2
+22,/root/autodl-tmp/GUIE-data/dishes/babaganoosh/003.jpg,2
+23,/root/autodl-tmp/GUIE-data/dishes/babaganoosh/004.jpg,2
+24,/root/autodl-tmp/GUIE-data/dishes/babaganoosh/005.jpg,2
+25,/root/autodl-tmp/GUIE-data/dishes/babaganoosh/006.jpg,2
+26,/root/autodl-tmp/GUIE-data/dishes/babaganoosh/007.jpg,2
+27,/root/autodl-tmp/GUIE-data/dishes/babaganoosh/008.jpg,2
+28,/root/autodl-tmp/GUIE-data/dishes/babaganoosh/009.jpg,2
+29,/root/autodl-tmp/GUIE-data/dishes/babaganoosh/010.jpg,2
+30,/root/autodl-tmp/GUIE-data/dishes/bread bruscetta/001.jpg,3
+31,/root/autodl-tmp/GUIE-data/dishes/bread bruscetta/002.jpg,3
+32,/root/autodl-tmp/GUIE-data/dishes/bread bruscetta/003.jpg,3
+33,/root/autodl-tmp/GUIE-data/dishes/bread bruscetta/004.jpg,3
+34,/root/autodl-tmp/GUIE-data/dishes/bread bruscetta/005.jpg,3
+35,/root/autodl-tmp/GUIE-data/dishes/bread bruscetta/006.jpg,3
+36,/root/autodl-tmp/GUIE-data/dishes/bread bruscetta/007.jpg,3
+37,/root/autodl-tmp/GUIE-data/dishes/bread bruscetta/008.jpg,3
+38,/root/autodl-tmp/GUIE-data/dishes/bread bruscetta/009.jpg,3
+39,/root/autodl-tmp/GUIE-data/dishes/bread bruscetta/010.jpg,3
+40,/root/autodl-tmp/GUIE-data/dishes/bread buritto/001.jpg,4
+41,/root/autodl-tmp/GUIE-data/dishes/bread buritto/002.jpg,4
+42,/root/autodl-tmp/GUIE-data/dishes/bread buritto/003.jpg,4
+43,/root/autodl-tmp/GUIE-data/dishes/bread buritto/004.jpg,4
+44,/root/autodl-tmp/GUIE-data/dishes/bread buritto/005.jpg,4
+45,/root/autodl-tmp/GUIE-data/dishes/bread buritto/006.jpg,4
+46,/root/autodl-tmp/GUIE-data/dishes/bread buritto/007.jpg,4
+47,/root/autodl-tmp/GUIE-data/dishes/bread buritto/008.jpg,4
+48,/root/autodl-tmp/GUIE-data/dishes/bread buritto/009.jpg,4
+49,/root/autodl-tmp/GUIE-data/dishes/bread buritto/010.jpg,4
+50,/root/autodl-tmp/GUIE-data/dishes/bread lavash/001.jpg,5
+51,/root/autodl-tmp/GUIE-data/dishes/bread lavash/002.jpg,5
+52,/root/autodl-tmp/GUIE-data/dishes/bread lavash/003.jpg,5
+53,/root/autodl-tmp/GUIE-data/dishes/bread lavash/004.jpg,5
+54,/root/autodl-tmp/GUIE-data/dishes/bread lavash/005.jpg,5
+55,/root/autodl-tmp/GUIE-data/dishes/bread lavash/006.jpg,5
+56,/root/autodl-tmp/GUIE-data/dishes/bread lavash/007.jpg,5
+57,/root/autodl-tmp/GUIE-data/dishes/bread lavash/008.jpg,5
+58,/root/autodl-tmp/GUIE-data/dishes/bread lavash/009.jpg,5
+59,/root/autodl-tmp/GUIE-data/dishes/bread lavash/010.jpg,5
+60,/root/autodl-tmp/GUIE-data/dishes/bread pancakes/001.jpg,6
+61,/root/autodl-tmp/GUIE-data/dishes/bread pancakes/002.jpg,6
+62,/root/autodl-tmp/GUIE-data/dishes/bread pancakes/003.jpg,6
+63,/root/autodl-tmp/GUIE-data/dishes/bread pancakes/004.jpg,6
+64,/root/autodl-tmp/GUIE-data/dishes/bread pancakes/005.jpg,6
+65,/root/autodl-tmp/GUIE-data/dishes/bread pancakes/006.jpg,6
+66,/root/autodl-tmp/GUIE-data/dishes/bread pancakes/007.jpg,6
+67,/root/autodl-tmp/GUIE-data/dishes/bread pancakes/008.jpg,6
+68,/root/autodl-tmp/GUIE-data/dishes/bread pancakes/009.jpg,6
+69,/root/autodl-tmp/GUIE-data/dishes/bread pancakes/010.jpg,6
+70,/root/autodl-tmp/GUIE-data/dishes/bread pizza/001.jpg,7
+71,/root/autodl-tmp/GUIE-data/dishes/bread pizza/002.jpg,7
+72,/root/autodl-tmp/GUIE-data/dishes/bread pizza/003.jpg,7
+73,/root/autodl-tmp/GUIE-data/dishes/bread pizza/004.jpg,7
+74,/root/autodl-tmp/GUIE-data/dishes/bread pizza/005.jpg,7
+75,/root/autodl-tmp/GUIE-data/dishes/bread pizza/006.jpg,7
+76,/root/autodl-tmp/GUIE-data/dishes/bread pizza/007.jpg,7
+77,/root/autodl-tmp/GUIE-data/dishes/bread pizza/008.jpg,7
+78,/root/autodl-tmp/GUIE-data/dishes/bread pizza/009.jpg,7
+79,/root/autodl-tmp/GUIE-data/dishes/bread pizza/010.jpg,7
+80,/root/autodl-tmp/GUIE-data/dishes/bread sandwich/001.jpg,8
+81,/root/autodl-tmp/GUIE-data/dishes/bread sandwich/002.jpg,8
+82,/root/autodl-tmp/GUIE-data/dishes/bread sandwich/003.jpg,8
+83,/root/autodl-tmp/GUIE-data/dishes/bread sandwich/004.jpg,8
+84,/root/autodl-tmp/GUIE-data/dishes/bread sandwich/005.jpg,8
+85,/root/autodl-tmp/GUIE-data/dishes/bread sandwich/006.jpg,8
+86,/root/autodl-tmp/GUIE-data/dishes/bread sandwich/007.jpg,8
+87,/root/autodl-tmp/GUIE-data/dishes/bread sandwich/008.jpg,8
+88,/root/autodl-tmp/GUIE-data/dishes/bread sandwich/009.jpg,8
+89,/root/autodl-tmp/GUIE-data/dishes/bread sandwich/010.jpg,8
+90,/root/autodl-tmp/GUIE-data/dishes/bread toast/001.jpg,9
+91,/root/autodl-tmp/GUIE-data/dishes/bread toast/002.jpg,9
+92,/root/autodl-tmp/GUIE-data/dishes/bread toast/003.jpg,9
+93,/root/autodl-tmp/GUIE-data/dishes/bread toast/004.jpg,9
+94,/root/autodl-tmp/GUIE-data/dishes/bread toast/005.jpg,9
+95,/root/autodl-tmp/GUIE-data/dishes/bread toast/006.jpg,9
+96,/root/autodl-tmp/GUIE-data/dishes/bread toast/007.jpg,9
+97,/root/autodl-tmp/GUIE-data/dishes/bread toast/008.jpg,9
+98,/root/autodl-tmp/GUIE-data/dishes/bread toast/009.jpg,9
+99,/root/autodl-tmp/GUIE-data/dishes/bread toast/010.jpg,9
+100,/root/autodl-tmp/GUIE-data/dishes/bread waffles/001.jpg,10
+101,/root/autodl-tmp/GUIE-data/dishes/bread waffles/002.jpg,10
+102,/root/autodl-tmp/GUIE-data/dishes/bread waffles/003.jpg,10
+103,/root/autodl-tmp/GUIE-data/dishes/bread waffles/004.jpg,10
+104,/root/autodl-tmp/GUIE-data/dishes/bread waffles/005.jpg,10
+105,/root/autodl-tmp/GUIE-data/dishes/bread waffles/006.jpg,10
+106,/root/autodl-tmp/GUIE-data/dishes/bread waffles/007.jpg,10
+107,/root/autodl-tmp/GUIE-data/dishes/bread waffles/008.jpg,10
+108,/root/autodl-tmp/GUIE-data/dishes/bread waffles/009.jpg,10
+109,/root/autodl-tmp/GUIE-data/dishes/bread waffles/010.jpg,10
+110,/root/autodl-tmp/GUIE-data/dishes/bread/001.jpg,11
+111,/root/autodl-tmp/GUIE-data/dishes/bread/002.jpg,11
+112,/root/autodl-tmp/GUIE-data/dishes/bread/003.jpg,11
+113,/root/autodl-tmp/GUIE-data/dishes/bread/004.jpg,11
+114,/root/autodl-tmp/GUIE-data/dishes/bread/005.jpg,11
+115,/root/autodl-tmp/GUIE-data/dishes/bread/006.jpg,11
+116,/root/autodl-tmp/GUIE-data/dishes/bread/007.jpg,11
+117,/root/autodl-tmp/GUIE-data/dishes/bread/008.jpg,11
+118,/root/autodl-tmp/GUIE-data/dishes/bread/009.jpg,11
+119,/root/autodl-tmp/GUIE-data/dishes/bread/010.jpg,11
+120,/root/autodl-tmp/GUIE-data/dishes/bread_french bread/001.jpg,12
+121,/root/autodl-tmp/GUIE-data/dishes/bread_french bread/002.jpg,12
+122,/root/autodl-tmp/GUIE-data/dishes/bread_french bread/003.jpg,12
+123,/root/autodl-tmp/GUIE-data/dishes/bread_french bread/004.jpg,12
+124,/root/autodl-tmp/GUIE-data/dishes/bread_french bread/005.jpg,12
+125,/root/autodl-tmp/GUIE-data/dishes/bread_french bread/006.jpg,12
+126,/root/autodl-tmp/GUIE-data/dishes/bread_french bread/007.jpg,12
+127,/root/autodl-tmp/GUIE-data/dishes/bread_french bread/008.jpg,12
+128,/root/autodl-tmp/GUIE-data/dishes/bread_french bread/009.jpg,12
+129,/root/autodl-tmp/GUIE-data/dishes/bread_french bread/010.jpg,12
+130,/root/autodl-tmp/GUIE-data/dishes/cheese soft/001.jpg,13
+131,/root/autodl-tmp/GUIE-data/dishes/cheese soft/002.jpg,13
+132,/root/autodl-tmp/GUIE-data/dishes/cheese soft/003.jpg,13
+133,/root/autodl-tmp/GUIE-data/dishes/cheese soft/004.jpg,13
+134,/root/autodl-tmp/GUIE-data/dishes/cheese soft/005.jpg,13
+135,/root/autodl-tmp/GUIE-data/dishes/cheese soft/006.jpg,13
+136,/root/autodl-tmp/GUIE-data/dishes/cheese soft/007.jpg,13
+137,/root/autodl-tmp/GUIE-data/dishes/cheese soft/008.jpg,13
+138,/root/autodl-tmp/GUIE-data/dishes/cheese soft/009.jpg,13
+139,/root/autodl-tmp/GUIE-data/dishes/cheese soft/010.jpg,13
+140,/root/autodl-tmp/GUIE-data/dishes/cheeseburgers/001.jpg,14
+141,/root/autodl-tmp/GUIE-data/dishes/cheeseburgers/002.jpg,14
+142,/root/autodl-tmp/GUIE-data/dishes/cheeseburgers/003.jpg,14
+143,/root/autodl-tmp/GUIE-data/dishes/cheeseburgers/004.jpg,14
+144,/root/autodl-tmp/GUIE-data/dishes/cheeseburgers/005.jpg,14
+145,/root/autodl-tmp/GUIE-data/dishes/cheeseburgers/006.jpg,14
+146,/root/autodl-tmp/GUIE-data/dishes/cheeseburgers/007.jpg,14
+147,/root/autodl-tmp/GUIE-data/dishes/cheeseburgers/008.jpg,14
+148,/root/autodl-tmp/GUIE-data/dishes/cheeseburgers/009.jpg,14
+149,/root/autodl-tmp/GUIE-data/dishes/cheeseburgers/010.jpg,14
+150,/root/autodl-tmp/GUIE-data/dishes/couscous/001.jpg,15
+151,/root/autodl-tmp/GUIE-data/dishes/couscous/002.jpg,15
+152,/root/autodl-tmp/GUIE-data/dishes/couscous/003.jpg,15
+153,/root/autodl-tmp/GUIE-data/dishes/couscous/004.jpg,15
+154,/root/autodl-tmp/GUIE-data/dishes/couscous/005.jpg,15
+155,/root/autodl-tmp/GUIE-data/dishes/couscous/006.jpg,15
+156,/root/autodl-tmp/GUIE-data/dishes/couscous/007.jpg,15
+157,/root/autodl-tmp/GUIE-data/dishes/couscous/008.jpg,15
+158,/root/autodl-tmp/GUIE-data/dishes/couscous/009.jpg,15
+159,/root/autodl-tmp/GUIE-data/dishes/couscous/010.jpg,15
+160,/root/autodl-tmp/GUIE-data/dishes/desert ice cream/001.jpg,16
+161,/root/autodl-tmp/GUIE-data/dishes/desert ice cream/002.jpg,16
+162,/root/autodl-tmp/GUIE-data/dishes/desert ice cream/003.jpg,16
+163,/root/autodl-tmp/GUIE-data/dishes/desert ice cream/004.jpg,16
+164,/root/autodl-tmp/GUIE-data/dishes/desert ice cream/005.jpg,16
+165,/root/autodl-tmp/GUIE-data/dishes/desert ice cream/006.jpg,16
+166,/root/autodl-tmp/GUIE-data/dishes/desert ice cream/007.jpg,16
+167,/root/autodl-tmp/GUIE-data/dishes/desert ice cream/008.jpg,16
+168,/root/autodl-tmp/GUIE-data/dishes/desert ice cream/009.jpg,16
+169,/root/autodl-tmp/GUIE-data/dishes/desert ice cream/010.jpg,16
+170,/root/autodl-tmp/GUIE-data/dishes/dessert Napoleon cake/001.jpg,17
+171,/root/autodl-tmp/GUIE-data/dishes/dessert Napoleon cake/002.jpg,17
+172,/root/autodl-tmp/GUIE-data/dishes/dessert Napoleon cake/003.jpg,17
+173,/root/autodl-tmp/GUIE-data/dishes/dessert Napoleon cake/004.jpg,17
+174,/root/autodl-tmp/GUIE-data/dishes/dessert Napoleon cake/005.jpg,17
+175,/root/autodl-tmp/GUIE-data/dishes/dessert Napoleon cake/006.jpg,17
+176,/root/autodl-tmp/GUIE-data/dishes/dessert Napoleon cake/007.jpg,17
+177,/root/autodl-tmp/GUIE-data/dishes/dessert Napoleon cake/008.jpg,17
+178,/root/autodl-tmp/GUIE-data/dishes/dessert Napoleon cake/009.jpg,17
+179,/root/autodl-tmp/GUIE-data/dishes/dessert Napoleon cake/010.jpg,17
+180,/root/autodl-tmp/GUIE-data/dishes/dessert chocolate cake/001.jpg,18
+181,/root/autodl-tmp/GUIE-data/dishes/dessert chocolate cake/002.jpg,18
+182,/root/autodl-tmp/GUIE-data/dishes/dessert chocolate cake/003.jpg,18
+183,/root/autodl-tmp/GUIE-data/dishes/dessert chocolate cake/004.jpg,18
+184,/root/autodl-tmp/GUIE-data/dishes/dessert chocolate cake/005.jpg,18
+185,/root/autodl-tmp/GUIE-data/dishes/dessert chocolate cake/006.jpg,18
+186,/root/autodl-tmp/GUIE-data/dishes/dessert chocolate cake/007.jpg,18
+187,/root/autodl-tmp/GUIE-data/dishes/dessert chocolate cake/008.jpg,18
+188,/root/autodl-tmp/GUIE-data/dishes/dessert chocolate cake/009.jpg,18
+189,/root/autodl-tmp/GUIE-data/dishes/dessert chocolate cake/010.jpg,18
+190,/root/autodl-tmp/GUIE-data/dishes/dessert pudding/001.jpg,19
+191,/root/autodl-tmp/GUIE-data/dishes/dessert pudding/002.jpg,19
+192,/root/autodl-tmp/GUIE-data/dishes/dessert pudding/003.jpg,19
+193,/root/autodl-tmp/GUIE-data/dishes/dessert pudding/004.jpg,19
+194,/root/autodl-tmp/GUIE-data/dishes/dessert pudding/005.jpg,19
+195,/root/autodl-tmp/GUIE-data/dishes/dessert pudding/006.jpg,19
+196,/root/autodl-tmp/GUIE-data/dishes/dessert pudding/007.jpg,19
+197,/root/autodl-tmp/GUIE-data/dishes/dessert pudding/008.jpg,19
+198,/root/autodl-tmp/GUIE-data/dishes/dessert pudding/009.jpg,19
+199,/root/autodl-tmp/GUIE-data/dishes/dessert pudding/010.jpg,19
+200,/root/autodl-tmp/GUIE-data/dishes/drink B-52/001.jpg,20
+201,/root/autodl-tmp/GUIE-data/dishes/drink B-52/002.jpg,20
+202,/root/autodl-tmp/GUIE-data/dishes/drink B-52/003.jpg,20
+203,/root/autodl-tmp/GUIE-data/dishes/drink B-52/004.jpg,20
+204,/root/autodl-tmp/GUIE-data/dishes/drink B-52/005.jpg,20
+205,/root/autodl-tmp/GUIE-data/dishes/drink B-52/006.jpg,20
+206,/root/autodl-tmp/GUIE-data/dishes/drink B-52/007.jpg,20
+207,/root/autodl-tmp/GUIE-data/dishes/drink B-52/008.jpg,20
+208,/root/autodl-tmp/GUIE-data/dishes/drink B-52/009.jpg,20
+209,/root/autodl-tmp/GUIE-data/dishes/drink B-52/010.jpg,20
+210,/root/autodl-tmp/GUIE-data/dishes/drink Hawaiian cocktail/001.jpg,21
+211,/root/autodl-tmp/GUIE-data/dishes/drink Hawaiian cocktail/002.jpg,21
+212,/root/autodl-tmp/GUIE-data/dishes/drink Hawaiian cocktail/003.jpg,21
+213,/root/autodl-tmp/GUIE-data/dishes/drink Hawaiian cocktail/004.jpg,21
+214,/root/autodl-tmp/GUIE-data/dishes/drink Hawaiian cocktail/005.jpg,21
+215,/root/autodl-tmp/GUIE-data/dishes/drink Hawaiian cocktail/006.jpg,21
+216,/root/autodl-tmp/GUIE-data/dishes/drink Hawaiian cocktail/007.jpg,21
+217,/root/autodl-tmp/GUIE-data/dishes/drink Hawaiian cocktail/008.jpg,21
+218,/root/autodl-tmp/GUIE-data/dishes/drink Hawaiian cocktail/009.jpg,21
+219,/root/autodl-tmp/GUIE-data/dishes/drink Hawaiian cocktail/010.jpg,21
+220,/root/autodl-tmp/GUIE-data/dishes/drink Margarita/001.jpg,22
+221,/root/autodl-tmp/GUIE-data/dishes/drink Margarita/002.jpg,22
+222,/root/autodl-tmp/GUIE-data/dishes/drink Margarita/003.jpg,22
+223,/root/autodl-tmp/GUIE-data/dishes/drink Margarita/004.jpg,22
+224,/root/autodl-tmp/GUIE-data/dishes/drink Margarita/005.jpg,22
+225,/root/autodl-tmp/GUIE-data/dishes/drink Margarita/006.jpg,22
+226,/root/autodl-tmp/GUIE-data/dishes/drink Margarita/007.jpg,22
+227,/root/autodl-tmp/GUIE-data/dishes/drink Margarita/008.jpg,22
+228,/root/autodl-tmp/GUIE-data/dishes/drink Margarita/009.jpg,22
+229,/root/autodl-tmp/GUIE-data/dishes/drink Margarita/010.jpg,22
+230,/root/autodl-tmp/GUIE-data/dishes/drink Tequila sunrise/001.jpg,23
+231,/root/autodl-tmp/GUIE-data/dishes/drink Tequila sunrise/002.jpg,23
+232,/root/autodl-tmp/GUIE-data/dishes/drink Tequila sunrise/003.jpg,23
+233,/root/autodl-tmp/GUIE-data/dishes/drink Tequila sunrise/004.jpg,23
+234,/root/autodl-tmp/GUIE-data/dishes/drink Tequila sunrise/005.jpg,23
+235,/root/autodl-tmp/GUIE-data/dishes/drink Tequila sunrise/006.jpg,23
+236,/root/autodl-tmp/GUIE-data/dishes/drink Tequila sunrise/007.jpg,23
+237,/root/autodl-tmp/GUIE-data/dishes/drink Tequila sunrise/008.jpg,23
+238,/root/autodl-tmp/GUIE-data/dishes/drink Tequila sunrise/009.jpg,23
+239,/root/autodl-tmp/GUIE-data/dishes/drink Tequila sunrise/010.jpg,23
+240,/root/autodl-tmp/GUIE-data/dishes/drink beer/001.jpg,24
+241,/root/autodl-tmp/GUIE-data/dishes/drink beer/002.jpg,24
+242,/root/autodl-tmp/GUIE-data/dishes/drink beer/003.jpg,24
+243,/root/autodl-tmp/GUIE-data/dishes/drink beer/004.jpg,24
+244,/root/autodl-tmp/GUIE-data/dishes/drink beer/005.jpg,24
+245,/root/autodl-tmp/GUIE-data/dishes/drink beer/006.jpg,24
+246,/root/autodl-tmp/GUIE-data/dishes/drink beer/007.jpg,24
+247,/root/autodl-tmp/GUIE-data/dishes/drink beer/008.jpg,24
+248,/root/autodl-tmp/GUIE-data/dishes/drink beer/009.jpg,24
+249,/root/autodl-tmp/GUIE-data/dishes/drink beer/010.jpg,24
+250,/root/autodl-tmp/GUIE-data/dishes/drink coffee/001.jpg,25
+251,/root/autodl-tmp/GUIE-data/dishes/drink coffee/002.jpg,25
+252,/root/autodl-tmp/GUIE-data/dishes/drink coffee/003.jpg,25
+253,/root/autodl-tmp/GUIE-data/dishes/drink coffee/004.jpg,25
+254,/root/autodl-tmp/GUIE-data/dishes/drink coffee/005.jpg,25
+255,/root/autodl-tmp/GUIE-data/dishes/drink coffee/006.jpg,25
+256,/root/autodl-tmp/GUIE-data/dishes/drink coffee/007.jpg,25
+257,/root/autodl-tmp/GUIE-data/dishes/drink coffee/008.jpg,25
+258,/root/autodl-tmp/GUIE-data/dishes/drink coffee/009.jpg,25
+259,/root/autodl-tmp/GUIE-data/dishes/drink coffee/010.jpg,25
+260,/root/autodl-tmp/GUIE-data/dishes/drink milk/001.jpg,26
+261,/root/autodl-tmp/GUIE-data/dishes/drink milk/002.jpg,26
+262,/root/autodl-tmp/GUIE-data/dishes/drink milk/003.jpg,26
+263,/root/autodl-tmp/GUIE-data/dishes/drink milk/004.jpg,26
+264,/root/autodl-tmp/GUIE-data/dishes/drink milk/005.jpg,26
+265,/root/autodl-tmp/GUIE-data/dishes/drink milk/006.jpg,26
+266,/root/autodl-tmp/GUIE-data/dishes/drink milk/007.jpg,26
+267,/root/autodl-tmp/GUIE-data/dishes/drink milk/008.jpg,26
+268,/root/autodl-tmp/GUIE-data/dishes/drink milk/009.jpg,26
+269,/root/autodl-tmp/GUIE-data/dishes/drink milk/010.jpg,26
+270,/root/autodl-tmp/GUIE-data/dishes/drink red wine/001.jpg,27
+271,/root/autodl-tmp/GUIE-data/dishes/drink red wine/002.jpg,27
+272,/root/autodl-tmp/GUIE-data/dishes/drink red wine/003.jpg,27
+273,/root/autodl-tmp/GUIE-data/dishes/drink red wine/004.jpg,27
+274,/root/autodl-tmp/GUIE-data/dishes/drink red wine/005.jpg,27
+275,/root/autodl-tmp/GUIE-data/dishes/drink red wine/006.jpg,27
+276,/root/autodl-tmp/GUIE-data/dishes/drink red wine/007.jpg,27
+277,/root/autodl-tmp/GUIE-data/dishes/drink red wine/008.jpg,27
+278,/root/autodl-tmp/GUIE-data/dishes/drink red wine/009.jpg,27
+279,/root/autodl-tmp/GUIE-data/dishes/drink red wine/010.jpg,27
+280,/root/autodl-tmp/GUIE-data/dishes/drink tea/001.jpg,28
+281,/root/autodl-tmp/GUIE-data/dishes/drink tea/002.jpg,28
+282,/root/autodl-tmp/GUIE-data/dishes/drink tea/003.jpg,28
+283,/root/autodl-tmp/GUIE-data/dishes/drink tea/004.jpg,28
+284,/root/autodl-tmp/GUIE-data/dishes/drink tea/005.jpg,28
+285,/root/autodl-tmp/GUIE-data/dishes/drink tea/006.jpg,28
+286,/root/autodl-tmp/GUIE-data/dishes/drink tea/007.jpg,28
+287,/root/autodl-tmp/GUIE-data/dishes/drink tea/008.jpg,28
+288,/root/autodl-tmp/GUIE-data/dishes/drink tea/009.jpg,28
+289,/root/autodl-tmp/GUIE-data/dishes/drink tea/010.jpg,28
+290,/root/autodl-tmp/GUIE-data/dishes/drink white wine/001.jpg,29
+291,/root/autodl-tmp/GUIE-data/dishes/drink white wine/002.jpg,29
+292,/root/autodl-tmp/GUIE-data/dishes/drink white wine/003.jpg,29
+293,/root/autodl-tmp/GUIE-data/dishes/drink white wine/004.jpg,29
+294,/root/autodl-tmp/GUIE-data/dishes/drink white wine/005.jpg,29
+295,/root/autodl-tmp/GUIE-data/dishes/drink white wine/006.jpg,29
+296,/root/autodl-tmp/GUIE-data/dishes/drink white wine/007.jpg,29
+297,/root/autodl-tmp/GUIE-data/dishes/drink white wine/008.jpg,29
+298,/root/autodl-tmp/GUIE-data/dishes/drink white wine/009.jpg,29
+299,/root/autodl-tmp/GUIE-data/dishes/drink white wine/010.jpg,29
+300,/root/autodl-tmp/GUIE-data/dishes/dumplings/001.jpg,30
+301,/root/autodl-tmp/GUIE-data/dishes/dumplings/002.jpg,30
+302,/root/autodl-tmp/GUIE-data/dishes/dumplings/003.jpg,30
+303,/root/autodl-tmp/GUIE-data/dishes/dumplings/004.jpg,30
+304,/root/autodl-tmp/GUIE-data/dishes/dumplings/005.jpg,30
+305,/root/autodl-tmp/GUIE-data/dishes/dumplings/006.jpg,30
+306,/root/autodl-tmp/GUIE-data/dishes/dumplings/007.jpg,30
+307,/root/autodl-tmp/GUIE-data/dishes/dumplings/008.jpg,30
+308,/root/autodl-tmp/GUIE-data/dishes/dumplings/009.jpg,30
+309,/root/autodl-tmp/GUIE-data/dishes/dumplings/010.jpg,30
+310,/root/autodl-tmp/GUIE-data/dishes/eggs fried eggs/001.jpg,31
+311,/root/autodl-tmp/GUIE-data/dishes/eggs fried eggs/002.jpg,31
+312,/root/autodl-tmp/GUIE-data/dishes/eggs fried eggs/003.jpg,31
+313,/root/autodl-tmp/GUIE-data/dishes/eggs fried eggs/004.jpg,31
+314,/root/autodl-tmp/GUIE-data/dishes/eggs fried eggs/005.jpg,31
+315,/root/autodl-tmp/GUIE-data/dishes/eggs fried eggs/006.jpg,31
+316,/root/autodl-tmp/GUIE-data/dishes/eggs fried eggs/007.jpg,31
+317,/root/autodl-tmp/GUIE-data/dishes/eggs fried eggs/008.jpg,31
+318,/root/autodl-tmp/GUIE-data/dishes/eggs fried eggs/009.jpg,31
+319,/root/autodl-tmp/GUIE-data/dishes/eggs fried eggs/010.jpg,31
+320,/root/autodl-tmp/GUIE-data/dishes/eggs omelette/001.jpg,32
+321,/root/autodl-tmp/GUIE-data/dishes/eggs omelette/002.jpg,32
+322,/root/autodl-tmp/GUIE-data/dishes/eggs omelette/003.jpg,32
+323,/root/autodl-tmp/GUIE-data/dishes/eggs omelette/004.jpg,32
+324,/root/autodl-tmp/GUIE-data/dishes/eggs omelette/005.jpg,32
+325,/root/autodl-tmp/GUIE-data/dishes/eggs omelette/006.jpg,32
+326,/root/autodl-tmp/GUIE-data/dishes/eggs omelette/007.jpg,32
+327,/root/autodl-tmp/GUIE-data/dishes/eggs omelette/008.jpg,32
+328,/root/autodl-tmp/GUIE-data/dishes/eggs omelette/009.jpg,32
+329,/root/autodl-tmp/GUIE-data/dishes/eggs omelette/010.jpg,32
+330,/root/autodl-tmp/GUIE-data/dishes/eggs scrambled eggs/001.jpg,33
+331,/root/autodl-tmp/GUIE-data/dishes/eggs scrambled eggs/002.jpg,33
+332,/root/autodl-tmp/GUIE-data/dishes/eggs scrambled eggs/003.jpg,33
+333,/root/autodl-tmp/GUIE-data/dishes/eggs scrambled eggs/004.jpg,33
+334,/root/autodl-tmp/GUIE-data/dishes/eggs scrambled eggs/005.jpg,33
+335,/root/autodl-tmp/GUIE-data/dishes/eggs scrambled eggs/006.jpg,33
+336,/root/autodl-tmp/GUIE-data/dishes/eggs scrambled eggs/007.jpg,33
+337,/root/autodl-tmp/GUIE-data/dishes/eggs scrambled eggs/008.jpg,33
+338,/root/autodl-tmp/GUIE-data/dishes/eggs scrambled eggs/009.jpg,33
+339,/root/autodl-tmp/GUIE-data/dishes/eggs scrambled eggs/010.jpg,33
+340,/root/autodl-tmp/GUIE-data/dishes/eggs soft-boiled egg/001.jpg,34
+341,/root/autodl-tmp/GUIE-data/dishes/eggs soft-boiled egg/002.jpg,34
+342,/root/autodl-tmp/GUIE-data/dishes/eggs soft-boiled egg/003.jpg,34
+343,/root/autodl-tmp/GUIE-data/dishes/eggs soft-boiled egg/004.jpg,34
+344,/root/autodl-tmp/GUIE-data/dishes/eggs soft-boiled egg/005.jpg,34
+345,/root/autodl-tmp/GUIE-data/dishes/eggs soft-boiled egg/006.jpg,34
+346,/root/autodl-tmp/GUIE-data/dishes/eggs soft-boiled egg/007.jpg,34
+347,/root/autodl-tmp/GUIE-data/dishes/eggs soft-boiled egg/008.jpg,34
+348,/root/autodl-tmp/GUIE-data/dishes/eggs soft-boiled egg/009.jpg,34
+349,/root/autodl-tmp/GUIE-data/dishes/eggs soft-boiled egg/010.jpg,34
+350,/root/autodl-tmp/GUIE-data/dishes/fish boil/001.jpg,35
+351,/root/autodl-tmp/GUIE-data/dishes/fish boil/002.jpg,35
+352,/root/autodl-tmp/GUIE-data/dishes/fish boil/003.jpg,35
+353,/root/autodl-tmp/GUIE-data/dishes/fish boil/004.jpg,35
+354,/root/autodl-tmp/GUIE-data/dishes/fish boil/005.jpg,35
+355,/root/autodl-tmp/GUIE-data/dishes/fish boil/006.jpg,35
+356,/root/autodl-tmp/GUIE-data/dishes/fish boil/007.jpg,35
+357,/root/autodl-tmp/GUIE-data/dishes/fish boil/008.jpg,35
+358,/root/autodl-tmp/GUIE-data/dishes/fish boil/009.jpg,35
+359,/root/autodl-tmp/GUIE-data/dishes/fish boil/010.jpg,35
+360,/root/autodl-tmp/GUIE-data/dishes/fish fried/001.jpg,36
+361,/root/autodl-tmp/GUIE-data/dishes/fish fried/002.jpg,36
+362,/root/autodl-tmp/GUIE-data/dishes/fish fried/003.jpg,36
+363,/root/autodl-tmp/GUIE-data/dishes/fish fried/004.jpg,36
+364,/root/autodl-tmp/GUIE-data/dishes/fish fried/005.jpg,36
+365,/root/autodl-tmp/GUIE-data/dishes/fish fried/006.jpg,36
+366,/root/autodl-tmp/GUIE-data/dishes/fish fried/007.jpg,36
+367,/root/autodl-tmp/GUIE-data/dishes/fish fried/008.jpg,36
+368,/root/autodl-tmp/GUIE-data/dishes/fish fried/009.jpg,36
+369,/root/autodl-tmp/GUIE-data/dishes/fish fried/010.jpg,36
+370,/root/autodl-tmp/GUIE-data/dishes/fish red/001.jpg,37
+371,/root/autodl-tmp/GUIE-data/dishes/fish red/002.jpg,37
+372,/root/autodl-tmp/GUIE-data/dishes/fish red/003.jpg,37
+373,/root/autodl-tmp/GUIE-data/dishes/fish red/004.jpg,37
+374,/root/autodl-tmp/GUIE-data/dishes/fish red/005.jpg,37
+375,/root/autodl-tmp/GUIE-data/dishes/fish red/006.jpg,37
+376,/root/autodl-tmp/GUIE-data/dishes/fish red/007.jpg,37
+377,/root/autodl-tmp/GUIE-data/dishes/fish red/008.jpg,37
+378,/root/autodl-tmp/GUIE-data/dishes/fish red/009.jpg,37
+379,/root/autodl-tmp/GUIE-data/dishes/fish red/010.jpg,37
+380,/root/autodl-tmp/GUIE-data/dishes/fish squid/001.jpg,38
+381,/root/autodl-tmp/GUIE-data/dishes/fish squid/002.jpg,38
+382,/root/autodl-tmp/GUIE-data/dishes/fish squid/003.jpg,38
+383,/root/autodl-tmp/GUIE-data/dishes/fish squid/004.jpg,38
+384,/root/autodl-tmp/GUIE-data/dishes/fish squid/005.jpg,38
+385,/root/autodl-tmp/GUIE-data/dishes/fish squid/006.jpg,38
+386,/root/autodl-tmp/GUIE-data/dishes/fish squid/007.jpg,38
+387,/root/autodl-tmp/GUIE-data/dishes/fish squid/008.jpg,38
+388,/root/autodl-tmp/GUIE-data/dishes/fish squid/009.jpg,38
+389,/root/autodl-tmp/GUIE-data/dishes/fish squid/010.jpg,38
+390,/root/autodl-tmp/GUIE-data/dishes/grilled vegetables/001.jpg,39
+391,/root/autodl-tmp/GUIE-data/dishes/grilled vegetables/002.jpg,39
+392,/root/autodl-tmp/GUIE-data/dishes/grilled vegetables/003.jpg,39
+393,/root/autodl-tmp/GUIE-data/dishes/grilled vegetables/004.jpg,39
+394,/root/autodl-tmp/GUIE-data/dishes/grilled vegetables/005.jpg,39
+395,/root/autodl-tmp/GUIE-data/dishes/grilled vegetables/006.jpg,39
+396,/root/autodl-tmp/GUIE-data/dishes/grilled vegetables/007.jpg,39
+397,/root/autodl-tmp/GUIE-data/dishes/grilled vegetables/008.jpg,39
+398,/root/autodl-tmp/GUIE-data/dishes/grilled vegetables/009.jpg,39
+399,/root/autodl-tmp/GUIE-data/dishes/grilled vegetables/010.jpg,39
+400,/root/autodl-tmp/GUIE-data/dishes/guancamole/001.jpg,40
+401,/root/autodl-tmp/GUIE-data/dishes/guancamole/002.jpg,40
+402,/root/autodl-tmp/GUIE-data/dishes/guancamole/003.jpg,40
+403,/root/autodl-tmp/GUIE-data/dishes/guancamole/004.jpg,40
+404,/root/autodl-tmp/GUIE-data/dishes/guancamole/005.jpg,40
+405,/root/autodl-tmp/GUIE-data/dishes/guancamole/006.jpg,40
+406,/root/autodl-tmp/GUIE-data/dishes/guancamole/007.jpg,40
+407,/root/autodl-tmp/GUIE-data/dishes/guancamole/008.jpg,40
+408,/root/autodl-tmp/GUIE-data/dishes/guancamole/009.jpg,40
+409,/root/autodl-tmp/GUIE-data/dishes/guancamole/010.jpg,40
+410,/root/autodl-tmp/GUIE-data/dishes/hot dogs/001.jpg,41
+411,/root/autodl-tmp/GUIE-data/dishes/hot dogs/002.jpg,41
+412,/root/autodl-tmp/GUIE-data/dishes/hot dogs/003.jpg,41
+413,/root/autodl-tmp/GUIE-data/dishes/hot dogs/004.jpg,41
+414,/root/autodl-tmp/GUIE-data/dishes/hot dogs/005.jpg,41
+415,/root/autodl-tmp/GUIE-data/dishes/hot dogs/006.jpg,41
+416,/root/autodl-tmp/GUIE-data/dishes/hot dogs/007.jpg,41
+417,/root/autodl-tmp/GUIE-data/dishes/hot dogs/008.jpg,41
+418,/root/autodl-tmp/GUIE-data/dishes/hot dogs/009.jpg,41
+419,/root/autodl-tmp/GUIE-data/dishes/hot dogs/010.jpg,41
+420,/root/autodl-tmp/GUIE-data/dishes/meat boil/001.jpg,42
+421,/root/autodl-tmp/GUIE-data/dishes/meat boil/002.jpg,42
+422,/root/autodl-tmp/GUIE-data/dishes/meat boil/003.jpg,42
+423,/root/autodl-tmp/GUIE-data/dishes/meat boil/004.jpg,42
+424,/root/autodl-tmp/GUIE-data/dishes/meat boil/005.jpg,42
+425,/root/autodl-tmp/GUIE-data/dishes/meat boil/006.jpg,42
+426,/root/autodl-tmp/GUIE-data/dishes/meat boil/007.jpg,42
+427,/root/autodl-tmp/GUIE-data/dishes/meat boil/008.jpg,42
+428,/root/autodl-tmp/GUIE-data/dishes/meat boil/009.jpg,42
+429,/root/autodl-tmp/GUIE-data/dishes/meat boil/010.jpg,42
+430,/root/autodl-tmp/GUIE-data/dishes/meat chicken/001.jpg,43
+431,/root/autodl-tmp/GUIE-data/dishes/meat chicken/002.jpg,43
+432,/root/autodl-tmp/GUIE-data/dishes/meat chicken/003.jpg,43
+433,/root/autodl-tmp/GUIE-data/dishes/meat chicken/004.jpg,43
+434,/root/autodl-tmp/GUIE-data/dishes/meat chicken/005.jpg,43
+435,/root/autodl-tmp/GUIE-data/dishes/meat chicken/006.jpg,43
+436,/root/autodl-tmp/GUIE-data/dishes/meat chicken/007.jpg,43
+437,/root/autodl-tmp/GUIE-data/dishes/meat chicken/008.jpg,43
+438,/root/autodl-tmp/GUIE-data/dishes/meat chicken/009.jpg,43
+439,/root/autodl-tmp/GUIE-data/dishes/meat chicken/010.jpg,43
+440,/root/autodl-tmp/GUIE-data/dishes/meat jerky/001.jpg,44
+441,/root/autodl-tmp/GUIE-data/dishes/meat jerky/002.jpg,44
+442,/root/autodl-tmp/GUIE-data/dishes/meat jerky/003.jpg,44
+443,/root/autodl-tmp/GUIE-data/dishes/meat jerky/004.jpg,44
+444,/root/autodl-tmp/GUIE-data/dishes/meat jerky/005.jpg,44
+445,/root/autodl-tmp/GUIE-data/dishes/meat jerky/006.jpg,44
+446,/root/autodl-tmp/GUIE-data/dishes/meat jerky/007.jpg,44
+447,/root/autodl-tmp/GUIE-data/dishes/meat jerky/008.jpg,44
+448,/root/autodl-tmp/GUIE-data/dishes/meat jerky/009.jpg,44
+449,/root/autodl-tmp/GUIE-data/dishes/meat jerky/010.jpg,44
+450,/root/autodl-tmp/GUIE-data/dishes/meat kabobs/001.jpg,45
+451,/root/autodl-tmp/GUIE-data/dishes/meat kabobs/002.jpg,45
+452,/root/autodl-tmp/GUIE-data/dishes/meat kabobs/003.jpg,45
+453,/root/autodl-tmp/GUIE-data/dishes/meat kabobs/004.jpg,45
+454,/root/autodl-tmp/GUIE-data/dishes/meat kabobs/005.jpg,45
+455,/root/autodl-tmp/GUIE-data/dishes/meat kabobs/006.jpg,45
+456,/root/autodl-tmp/GUIE-data/dishes/meat kabobs/007.jpg,45
+457,/root/autodl-tmp/GUIE-data/dishes/meat kabobs/008.jpg,45
+458,/root/autodl-tmp/GUIE-data/dishes/meat kabobs/009.jpg,45
+459,/root/autodl-tmp/GUIE-data/dishes/meat kabobs/010.jpg,45
+460,/root/autodl-tmp/GUIE-data/dishes/meat meatballs/001.jpg,46
+461,/root/autodl-tmp/GUIE-data/dishes/meat meatballs/002.jpg,46
+462,/root/autodl-tmp/GUIE-data/dishes/meat meatballs/003.jpg,46
+463,/root/autodl-tmp/GUIE-data/dishes/meat meatballs/004.jpg,46
+464,/root/autodl-tmp/GUIE-data/dishes/meat meatballs/005.jpg,46
+465,/root/autodl-tmp/GUIE-data/dishes/meat meatballs/006.jpg,46
+466,/root/autodl-tmp/GUIE-data/dishes/meat meatballs/007.jpg,46
+467,/root/autodl-tmp/GUIE-data/dishes/meat meatballs/008.jpg,46
+468,/root/autodl-tmp/GUIE-data/dishes/meat meatballs/009.jpg,46
+469,/root/autodl-tmp/GUIE-data/dishes/meat meatballs/010.jpg,46
+470,/root/autodl-tmp/GUIE-data/dishes/meat steak/001.jpg,47
+471,/root/autodl-tmp/GUIE-data/dishes/meat steak/002.jpg,47
+472,/root/autodl-tmp/GUIE-data/dishes/meat steak/003.jpg,47
+473,/root/autodl-tmp/GUIE-data/dishes/meat steak/004.jpg,47
+474,/root/autodl-tmp/GUIE-data/dishes/meat steak/005.jpg,47
+475,/root/autodl-tmp/GUIE-data/dishes/meat steak/006.jpg,47
+476,/root/autodl-tmp/GUIE-data/dishes/meat steak/007.jpg,47
+477,/root/autodl-tmp/GUIE-data/dishes/meat steak/008.jpg,47
+478,/root/autodl-tmp/GUIE-data/dishes/meat steak/009.jpg,47
+479,/root/autodl-tmp/GUIE-data/dishes/meat steak/010.jpg,47
+480,/root/autodl-tmp/GUIE-data/dishes/pasta mac and cheese/001.jpg,48
+481,/root/autodl-tmp/GUIE-data/dishes/pasta mac and cheese/002.jpg,48
+482,/root/autodl-tmp/GUIE-data/dishes/pasta mac and cheese/003.jpg,48
+483,/root/autodl-tmp/GUIE-data/dishes/pasta mac and cheese/004.jpg,48
+484,/root/autodl-tmp/GUIE-data/dishes/pasta mac and cheese/005.jpg,48
+485,/root/autodl-tmp/GUIE-data/dishes/pasta mac and cheese/006.jpg,48
+486,/root/autodl-tmp/GUIE-data/dishes/pasta mac and cheese/007.jpg,48
+487,/root/autodl-tmp/GUIE-data/dishes/pasta mac and cheese/008.jpg,48
+488,/root/autodl-tmp/GUIE-data/dishes/pasta mac and cheese/009.jpg,48
+489,/root/autodl-tmp/GUIE-data/dishes/pasta mac and cheese/010.jpg,48
+490,/root/autodl-tmp/GUIE-data/dishes/pineapples/001.jpg,49
+491,/root/autodl-tmp/GUIE-data/dishes/pineapples/002.jpg,49
+492,/root/autodl-tmp/GUIE-data/dishes/pineapples/003.jpg,49
+493,/root/autodl-tmp/GUIE-data/dishes/pineapples/004.jpg,49
+494,/root/autodl-tmp/GUIE-data/dishes/pineapples/005.jpg,49
+495,/root/autodl-tmp/GUIE-data/dishes/pineapples/006.jpg,49
+496,/root/autodl-tmp/GUIE-data/dishes/pineapples/007.jpg,49
+497,/root/autodl-tmp/GUIE-data/dishes/pineapples/008.jpg,49
+498,/root/autodl-tmp/GUIE-data/dishes/pineapples/009.jpg,49
+499,/root/autodl-tmp/GUIE-data/dishes/pineapples/010.jpg,49
+500,/root/autodl-tmp/GUIE-data/dishes/porridge/001.jpg,50
+501,/root/autodl-tmp/GUIE-data/dishes/porridge/002.jpg,50
+502,/root/autodl-tmp/GUIE-data/dishes/porridge/003.jpg,50
+503,/root/autodl-tmp/GUIE-data/dishes/porridge/004.jpg,50
+504,/root/autodl-tmp/GUIE-data/dishes/porridge/005.jpg,50
+505,/root/autodl-tmp/GUIE-data/dishes/porridge/006.jpg,50
+506,/root/autodl-tmp/GUIE-data/dishes/porridge/007.jpg,50
+507,/root/autodl-tmp/GUIE-data/dishes/porridge/008.jpg,50
+508,/root/autodl-tmp/GUIE-data/dishes/porridge/009.jpg,50
+509,/root/autodl-tmp/GUIE-data/dishes/porridge/010.jpg,50
+510,/root/autodl-tmp/GUIE-data/dishes/pot roast/001.jpg,51
+511,/root/autodl-tmp/GUIE-data/dishes/pot roast/002.jpg,51
+512,/root/autodl-tmp/GUIE-data/dishes/pot roast/003.jpg,51
+513,/root/autodl-tmp/GUIE-data/dishes/pot roast/004.jpg,51
+514,/root/autodl-tmp/GUIE-data/dishes/pot roast/005.jpg,51
+515,/root/autodl-tmp/GUIE-data/dishes/pot roast/006.jpg,51
+516,/root/autodl-tmp/GUIE-data/dishes/pot roast/007.jpg,51
+517,/root/autodl-tmp/GUIE-data/dishes/pot roast/008.jpg,51
+518,/root/autodl-tmp/GUIE-data/dishes/pot roast/009.jpg,51
+519,/root/autodl-tmp/GUIE-data/dishes/pot roast/010.jpg,51
+520,/root/autodl-tmp/GUIE-data/dishes/potato french fries/001.jpg,52
+521,/root/autodl-tmp/GUIE-data/dishes/potato french fries/002.jpg,52
+522,/root/autodl-tmp/GUIE-data/dishes/potato french fries/003.jpg,52
+523,/root/autodl-tmp/GUIE-data/dishes/potato french fries/004.jpg,52
+524,/root/autodl-tmp/GUIE-data/dishes/potato french fries/005.jpg,52
+525,/root/autodl-tmp/GUIE-data/dishes/potato french fries/006.jpg,52
+526,/root/autodl-tmp/GUIE-data/dishes/potato french fries/007.jpg,52
+527,/root/autodl-tmp/GUIE-data/dishes/potato french fries/008.jpg,52
+528,/root/autodl-tmp/GUIE-data/dishes/potato french fries/009.jpg,52
+529,/root/autodl-tmp/GUIE-data/dishes/potato french fries/010.jpg,52
+530,/root/autodl-tmp/GUIE-data/dishes/potato mashed potato/001.jpg,53
+531,/root/autodl-tmp/GUIE-data/dishes/potato mashed potato/002.jpg,53
+532,/root/autodl-tmp/GUIE-data/dishes/potato mashed potato/003.jpg,53
+533,/root/autodl-tmp/GUIE-data/dishes/potato mashed potato/004.jpg,53
+534,/root/autodl-tmp/GUIE-data/dishes/potato mashed potato/005.jpg,53
+535,/root/autodl-tmp/GUIE-data/dishes/potato mashed potato/006.jpg,53
+536,/root/autodl-tmp/GUIE-data/dishes/potato mashed potato/007.jpg,53
+537,/root/autodl-tmp/GUIE-data/dishes/potato mashed potato/008.jpg,53
+538,/root/autodl-tmp/GUIE-data/dishes/potato mashed potato/009.jpg,53
+539,/root/autodl-tmp/GUIE-data/dishes/potato mashed potato/010.jpg,53
+540,/root/autodl-tmp/GUIE-data/dishes/roll avocado/001.jpg,54
+541,/root/autodl-tmp/GUIE-data/dishes/roll avocado/002.jpg,54
+542,/root/autodl-tmp/GUIE-data/dishes/roll avocado/003.jpg,54
+543,/root/autodl-tmp/GUIE-data/dishes/roll avocado/004.jpg,54
+544,/root/autodl-tmp/GUIE-data/dishes/roll avocado/005.jpg,54
+545,/root/autodl-tmp/GUIE-data/dishes/roll avocado/006.jpg,54
+546,/root/autodl-tmp/GUIE-data/dishes/roll avocado/007.jpg,54
+547,/root/autodl-tmp/GUIE-data/dishes/roll avocado/008.jpg,54
+548,/root/autodl-tmp/GUIE-data/dishes/roll avocado/009.jpg,54
+549,/root/autodl-tmp/GUIE-data/dishes/roll avocado/010.jpg,54
+550,/root/autodl-tmp/GUIE-data/dishes/roll eel sushi/001.jpg,55
+551,/root/autodl-tmp/GUIE-data/dishes/roll eel sushi/002.jpg,55
+552,/root/autodl-tmp/GUIE-data/dishes/roll eel sushi/003.jpg,55
+553,/root/autodl-tmp/GUIE-data/dishes/roll eel sushi/004.jpg,55
+554,/root/autodl-tmp/GUIE-data/dishes/roll eel sushi/005.jpg,55
+555,/root/autodl-tmp/GUIE-data/dishes/roll eel sushi/006.jpg,55
+556,/root/autodl-tmp/GUIE-data/dishes/roll eel sushi/007.jpg,55
+557,/root/autodl-tmp/GUIE-data/dishes/roll eel sushi/008.jpg,55
+558,/root/autodl-tmp/GUIE-data/dishes/roll eel sushi/009.jpg,55
+559,/root/autodl-tmp/GUIE-data/dishes/roll eel sushi/010.jpg,55
+560,/root/autodl-tmp/GUIE-data/dishes/salad Glasswort salad/001.jpg,56
+561,/root/autodl-tmp/GUIE-data/dishes/salad Glasswort salad/002.jpg,56
+562,/root/autodl-tmp/GUIE-data/dishes/salad Glasswort salad/003.jpg,56
+563,/root/autodl-tmp/GUIE-data/dishes/salad Glasswort salad/004.jpg,56
+564,/root/autodl-tmp/GUIE-data/dishes/salad Glasswort salad/005.jpg,56
+565,/root/autodl-tmp/GUIE-data/dishes/salad Glasswort salad/006.jpg,56
+566,/root/autodl-tmp/GUIE-data/dishes/salad Glasswort salad/007.jpg,56
+567,/root/autodl-tmp/GUIE-data/dishes/salad Glasswort salad/008.jpg,56
+568,/root/autodl-tmp/GUIE-data/dishes/salad Glasswort salad/009.jpg,56
+569,/root/autodl-tmp/GUIE-data/dishes/salad Glasswort salad/010.jpg,56
+570,/root/autodl-tmp/GUIE-data/dishes/salad Rosolli/001.jpg,57
+571,/root/autodl-tmp/GUIE-data/dishes/salad Rosolli/002.jpg,57
+572,/root/autodl-tmp/GUIE-data/dishes/salad Rosolli/003.jpg,57
+573,/root/autodl-tmp/GUIE-data/dishes/salad Rosolli/004.jpg,57
+574,/root/autodl-tmp/GUIE-data/dishes/salad Rosolli/005.jpg,57
+575,/root/autodl-tmp/GUIE-data/dishes/salad Rosolli/006.jpg,57
+576,/root/autodl-tmp/GUIE-data/dishes/salad Rosolli/007.jpg,57
+577,/root/autodl-tmp/GUIE-data/dishes/salad Rosolli/008.jpg,57
+578,/root/autodl-tmp/GUIE-data/dishes/salad Rosolli/009.jpg,57
+579,/root/autodl-tmp/GUIE-data/dishes/salad Rosolli/010.jpg,57
+580,/root/autodl-tmp/GUIE-data/dishes/salad Tuna salad/001.jpg,58
+581,/root/autodl-tmp/GUIE-data/dishes/salad Tuna salad/002.jpg,58
+582,/root/autodl-tmp/GUIE-data/dishes/salad Tuna salad/003.jpg,58
+583,/root/autodl-tmp/GUIE-data/dishes/salad Tuna salad/004.jpg,58
+584,/root/autodl-tmp/GUIE-data/dishes/salad Tuna salad/005.jpg,58
+585,/root/autodl-tmp/GUIE-data/dishes/salad Tuna salad/006.jpg,58
+586,/root/autodl-tmp/GUIE-data/dishes/salad Tuna salad/007.jpg,58
+587,/root/autodl-tmp/GUIE-data/dishes/salad Tuna salad/008.jpg,58
+588,/root/autodl-tmp/GUIE-data/dishes/salad Tuna salad/009.jpg,58
+589,/root/autodl-tmp/GUIE-data/dishes/salad Tuna salad/010.jpg,58
+590,/root/autodl-tmp/GUIE-data/dishes/salad fruit/001.jpg,59
+591,/root/autodl-tmp/GUIE-data/dishes/salad fruit/002.jpg,59
+592,/root/autodl-tmp/GUIE-data/dishes/salad fruit/003.jpg,59
+593,/root/autodl-tmp/GUIE-data/dishes/salad fruit/004.jpg,59
+594,/root/autodl-tmp/GUIE-data/dishes/salad fruit/005.jpg,59
+595,/root/autodl-tmp/GUIE-data/dishes/salad fruit/006.jpg,59
+596,/root/autodl-tmp/GUIE-data/dishes/salad fruit/007.jpg,59
+597,/root/autodl-tmp/GUIE-data/dishes/salad fruit/008.jpg,59
+598,/root/autodl-tmp/GUIE-data/dishes/salad fruit/009.jpg,59
+599,/root/autodl-tmp/GUIE-data/dishes/salad fruit/010.jpg,59
+600,/root/autodl-tmp/GUIE-data/dishes/salad olivier/001.jpg,60
+601,/root/autodl-tmp/GUIE-data/dishes/salad olivier/002.jpg,60
+602,/root/autodl-tmp/GUIE-data/dishes/salad olivier/003.jpg,60
+603,/root/autodl-tmp/GUIE-data/dishes/salad olivier/004.jpg,60
+604,/root/autodl-tmp/GUIE-data/dishes/salad olivier/005.jpg,60
+605,/root/autodl-tmp/GUIE-data/dishes/salad olivier/006.jpg,60
+606,/root/autodl-tmp/GUIE-data/dishes/salad olivier/007.jpg,60
+607,/root/autodl-tmp/GUIE-data/dishes/salad olivier/008.jpg,60
+608,/root/autodl-tmp/GUIE-data/dishes/salad olivier/009.jpg,60
+609,/root/autodl-tmp/GUIE-data/dishes/salad olivier/010.jpg,60
+610,/root/autodl-tmp/GUIE-data/dishes/salsd Greek salad/001.jpg,61
+611,/root/autodl-tmp/GUIE-data/dishes/salsd Greek salad/002.jpg,61
+612,/root/autodl-tmp/GUIE-data/dishes/salsd Greek salad/003.jpg,61
+613,/root/autodl-tmp/GUIE-data/dishes/salsd Greek salad/004.jpg,61
+614,/root/autodl-tmp/GUIE-data/dishes/salsd Greek salad/005.jpg,61
+615,/root/autodl-tmp/GUIE-data/dishes/salsd Greek salad/006.jpg,61
+616,/root/autodl-tmp/GUIE-data/dishes/salsd Greek salad/007.jpg,61
+617,/root/autodl-tmp/GUIE-data/dishes/salsd Greek salad/008.jpg,61
+618,/root/autodl-tmp/GUIE-data/dishes/salsd Greek salad/009.jpg,61
+619,/root/autodl-tmp/GUIE-data/dishes/salsd Greek salad/010.jpg,61
+620,/root/autodl-tmp/GUIE-data/dishes/soup bisque/001.jpg,62
+621,/root/autodl-tmp/GUIE-data/dishes/soup bisque/002.jpg,62
+622,/root/autodl-tmp/GUIE-data/dishes/soup bisque/003.jpg,62
+623,/root/autodl-tmp/GUIE-data/dishes/soup bisque/004.jpg,62
+624,/root/autodl-tmp/GUIE-data/dishes/soup bisque/005.jpg,62
+625,/root/autodl-tmp/GUIE-data/dishes/soup bisque/006.jpg,62
+626,/root/autodl-tmp/GUIE-data/dishes/soup bisque/007.jpg,62
+627,/root/autodl-tmp/GUIE-data/dishes/soup bisque/008.jpg,62
+628,/root/autodl-tmp/GUIE-data/dishes/soup bisque/009.jpg,62
+629,/root/autodl-tmp/GUIE-data/dishes/soup bisque/010.jpg,62
+630,/root/autodl-tmp/GUIE-data/dishes/soup borscht/001.jpg,63
+631,/root/autodl-tmp/GUIE-data/dishes/soup borscht/002.jpg,63
+632,/root/autodl-tmp/GUIE-data/dishes/soup borscht/003.jpg,63
+633,/root/autodl-tmp/GUIE-data/dishes/soup borscht/004.jpg,63
+634,/root/autodl-tmp/GUIE-data/dishes/soup borscht/005.jpg,63
+635,/root/autodl-tmp/GUIE-data/dishes/soup borscht/006.jpg,63
+636,/root/autodl-tmp/GUIE-data/dishes/soup borscht/007.jpg,63
+637,/root/autodl-tmp/GUIE-data/dishes/soup borscht/008.jpg,63
+638,/root/autodl-tmp/GUIE-data/dishes/soup borscht/009.jpg,63
+639,/root/autodl-tmp/GUIE-data/dishes/soup borscht/010.jpg,63
+640,/root/autodl-tmp/GUIE-data/dishes/spring rolls/001.jpg,64
+641,/root/autodl-tmp/GUIE-data/dishes/spring rolls/002.jpg,64
+642,/root/autodl-tmp/GUIE-data/dishes/spring rolls/003.jpg,64
+643,/root/autodl-tmp/GUIE-data/dishes/spring rolls/004.jpg,64
+644,/root/autodl-tmp/GUIE-data/dishes/spring rolls/005.jpg,64
+645,/root/autodl-tmp/GUIE-data/dishes/spring rolls/006.jpg,64
+646,/root/autodl-tmp/GUIE-data/dishes/spring rolls/007.jpg,64
+647,/root/autodl-tmp/GUIE-data/dishes/spring rolls/008.jpg,64
+648,/root/autodl-tmp/GUIE-data/dishes/spring rolls/009.jpg,64
+649,/root/autodl-tmp/GUIE-data/dishes/spring rolls/010.jpg,64
+650,/root/autodl-tmp/GUIE-data/dishes/tater tots/001.jpg,65
+651,/root/autodl-tmp/GUIE-data/dishes/tater tots/002.jpg,65
+652,/root/autodl-tmp/GUIE-data/dishes/tater tots/003.jpg,65
+653,/root/autodl-tmp/GUIE-data/dishes/tater tots/004.jpg,65
+654,/root/autodl-tmp/GUIE-data/dishes/tater tots/005.jpg,65
+655,/root/autodl-tmp/GUIE-data/dishes/tater tots/006.jpg,65
+656,/root/autodl-tmp/GUIE-data/dishes/tater tots/007.jpg,65
+657,/root/autodl-tmp/GUIE-data/dishes/tater tots/008.jpg,65
+658,/root/autodl-tmp/GUIE-data/dishes/tater tots/009.jpg,65
+659,/root/autodl-tmp/GUIE-data/dishes/tater tots/010.jpg,65
+660,/root/autodl-tmp/GUIE-data/dishes/vareniki/001.jpg,66
+661,/root/autodl-tmp/GUIE-data/dishes/vareniki/002.jpg,66
+662,/root/autodl-tmp/GUIE-data/dishes/vareniki/003.jpg,66
+663,/root/autodl-tmp/GUIE-data/dishes/vareniki/004.jpg,66
+664,/root/autodl-tmp/GUIE-data/dishes/vareniki/005.jpg,66
+665,/root/autodl-tmp/GUIE-data/dishes/vareniki/006.jpg,66
+666,/root/autodl-tmp/GUIE-data/dishes/vareniki/007.jpg,66
+667,/root/autodl-tmp/GUIE-data/dishes/vareniki/008.jpg,66
+668,/root/autodl-tmp/GUIE-data/dishes/vareniki/009.jpg,66
+669,/root/autodl-tmp/GUIE-data/dishes/vareniki/010.jpg,66
